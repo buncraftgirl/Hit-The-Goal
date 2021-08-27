@@ -1,0 +1,20 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(grass.jpg);
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:transparent;
+}
+
+
+#hd3{
+	display: inline-block;
+	color:teal;
+	background-color: rgb(15, 199, 144);
+	font-family: 'Courier New', Courier, monospace;
+}
